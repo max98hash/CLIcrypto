@@ -3,7 +3,7 @@
 Ce petit projet permet de récupérer, via l'API de **CoinGecko**, les principales informations sur des cryptomonnaies entrées en paramètre.
 
 ## Utilisation
-Une fois dans le dossier racine `crypto`
+Une fois dans le dossier racine
 
 ```node
 yarn run start btc,xrp,eth,eos,bch,usdt,ltc,trx,xlm,ada 
